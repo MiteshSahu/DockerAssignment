@@ -1,0 +1,5 @@
+com\example\EmployeeMangament\service\EmpService.class
+com\example\EmployeeMangament\EmployeeMangamentApplication.class
+com\example\EmployeeMangament\entity\Employee.class
+com\example\EmployeeMangament\repository\EmpRepo.class
+com\example\EmployeeMangament\controller\EmpController.class
